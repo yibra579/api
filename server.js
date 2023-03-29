@@ -9,4 +9,4 @@ app.listen(3000, () => {
 // routes
 app.get('/', (req, res) => {
     res.send('HELLO API')
-})
+}) 
